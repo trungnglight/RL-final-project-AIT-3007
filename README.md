@@ -1,6 +1,6 @@
 # MAgent2 RL Final Project
 ## Overview
-In this final project, you will develop and train a reinforcement learning (RL) agent using the MAgent2 platform. The task is to solve a specified MAgent2 environment, and your trained agent will be evaluated on all following three types of opponents:
+In this final project, you will develop and train a reinforcement learning (RL) agent using the MAgent2 platform. The task is to solve a specified MAgent2 environment `battle`, and your trained agent will be evaluated on all following three types of opponents:
 
 1. Random Agents: Agents that take random actions in the environment.
 2. A Pretrained Agent: A pretrained agent provided in the repository.
