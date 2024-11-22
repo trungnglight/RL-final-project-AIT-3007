@@ -8,18 +8,10 @@ In this final project, you will develop and train a reinforcement learning (RL) 
 
 Your agent's performance should be evaluated based on reward and win rate against each of these models. 
 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <video width="45%" controls>
-      <source src="video/random.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <video width="45%" controls>
-      <source src="video/pretrained.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</p>
+
+![](/video/random.mp4)
+![](/video/pretrained.mp4)
+see `video` folder for a demo of how each type of opponent behaves.
 
 ## Installation
 clone this repo and install with
