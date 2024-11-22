@@ -27,7 +27,7 @@ See `main.py` for a starter code.
 
 ## References
 
-1. [MAgent2 GitHub Repository](https://github.com/Farama-Foundation/PettingZoo/tree/master)
+1. [MAgent2 GitHub Repository](https://github.com/Farama-Foundation/MAgent2)
 2. [MAgent2 API Documentation](https://magent2.farama.org/introduction/basic_usage/)
 
 For further details on environment setup and agent interactions, please refer to the MAgent2 documentation.
