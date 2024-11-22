@@ -9,8 +9,11 @@ In this final project, you will develop and train a reinforcement learning (RL) 
 Your agent's performance should be evaluated based on reward and win rate against each of these models. 
 
 
-![](/video/random.mp4)
-![](/video/pretrained.mp4)
+<p align="center">
+  <img src="assets/random.gif" width="300" alt="random agent" />
+  <img src="assets/pretrained.gif" width="300" alt="pretrained agent" />
+</p>
+
 see `video` folder for a demo of how each type of opponent behaves.
 
 ## Installation
