@@ -6,7 +6,7 @@ In this final project, you will develop and train a reinforcement learning (RL) 
 2. A Pretrained Agent: A pretrained agent provided in the repository.
 3. A Final Agent: A stronger pretrained agent, which will be released in the final week of the course before the deadline.
 
-Your agent's performance should be evaluated based on reward and win rate against each of these models. 
+Your agent's performance should be evaluated based on reward and win rate against each of these models. You should control *blue* agents when evaluating.
 
 
 <p align="center">
@@ -14,7 +14,7 @@ Your agent's performance should be evaluated based on reward and win rate agains
   <img src="assets/pretrained.gif" width="300" alt="pretrained agent" />
 </p>
 
-see `video` folder for a demo of how each type of opponent behaves.
+See `video` folder for a demo of how each type of opponent behaves.
 
 ## Installation
 clone this repo and install with
