@@ -15,6 +15,7 @@ Your agent's performance should be evaluated based on reward and win rate agains
 </p>
 
 See `video` folder for a demo of how each type of opponent behaves.
+Checkout a [Colab notebook](https://colab.research.google.com/drive/1qmx_NCmzPlc-atWqexn2WueqMKB_ZTxc?usp=sharing) for running this demo.
 
 ## Installation
 clone this repo and install with
