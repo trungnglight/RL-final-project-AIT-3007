@@ -52,8 +52,8 @@ def eval():
                 else:
                     blue_reward += reward
 
-                if env.unwrapped.frames >= max_cycles:
-                    who_loses = "red" if n_dead["red"] > n_dead["blue"] else who_loses
+                if env.unwrapped.frames >= max_cycles and who_loses is None:
+                    who_loses = "red" if n_dead["red"] > n_dead["blue"] else "draw"
                     who_loses = "blue" if n_dead["red"] < n_dead["blue"] else who_loses
 
                 if termination or truncation:
