@@ -26,6 +26,9 @@ pip install -r requirements.txt
 ## Demos
 See `main.py` for a starter code.
 
+## Evaluation
+Refer to `eval.py` for the evaluation code, you might want to modify it with your specific codebase.
+
 ## References
 
 1. [MAgent2 GitHub Repository](https://github.com/Farama-Foundation/MAgent2)
