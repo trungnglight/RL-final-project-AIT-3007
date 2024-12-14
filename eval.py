@@ -1,6 +1,6 @@
 from magent2.environments import battle_v4
 from torch_model import QNetwork
-from final_torch_model import QNetwork as FinalQNetwork
+from DNQN import QNetwork as FinalQNetwork
 import torch
 import numpy as np
 
